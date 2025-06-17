@@ -1,4 +1,3 @@
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 streamlit
 adobe-pdfservices-sdk
 sentence-transformers
