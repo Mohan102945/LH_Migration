@@ -1,5 +1,5 @@
 streamlit
-adobe-pdfservices-sdk==4.1.1
+dfservices-sdk==4.1.1
 sentence-transformers
 transformers
 scikit-learn
