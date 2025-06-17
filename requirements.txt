@@ -1,0 +1,12 @@
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+streamlit
+adobe-pdfservices-sdk
+sentence-transformers
+transformers
+scikit-learn
+scipy
+pillow
+pymupdf
+pandas
+openpyxl
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
